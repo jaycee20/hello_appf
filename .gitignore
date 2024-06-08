@@ -21,9 +21,3 @@
 /yarn-error.log
 
 .byebug_history
-
-# Ignore Codespace config
-/.devcontainer
-/.github
-/.vscode
-package-lock.json
